@@ -1,1 +1,1 @@
-# Election-Data-Analysis-
+# Election-Data-Analysis-📌 Overview  This project analyzes the Indian General Election 2019 data using Statistical Analysis, Tableau Visualization, and SQL (BigQuery). The project focuses on understanding voting trends, party performance, and electoral competition across different states of India.
