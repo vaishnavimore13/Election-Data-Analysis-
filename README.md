@@ -1,1 +1,40 @@
-# Election-Data-Analysis-📌 Overview  This project analyzes the Indian General Election 2019 data using Statistical Analysis, Tableau Visualization, and SQL (BigQuery). The project focuses on understanding voting trends, party performance, and electoral competition across different states of India.
+Hi 👋, I'm Vaishnavi More
+
+📊 Aspiring Data Analyst
+
+👩‍💻 About Me
+
+• 🌱 Currently learning Data Analytics  
+• 📊 Skilled in SQL, Excel, Tableau & Python  
+• 📈 Building real-world Data Analysis Projects  
+• 💡 Interested in Data Visualization & Insights  
+• 🎯 Goal: Become a Professional Data Analyst  
+• 📫 Reach me at: vaishumore013@gmail.com  
+
+🌐 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/vaishnavi-more-2149b0385
+
+🛠️ Languages & Tools
+
+• SQL  
+• Excel  
+• Tableau  
+• Python  
+• Pandas  
+• NumPy  
+• Data Cleaning  
+• Data Visualization  
+
+📂 Featured Projects
+
+📌 Election Data Analysis Project  
+
+📊 GitHub Stats
+
+✨ Quote
+
+📊 “Data is the new oil, but insights are the real power.”
+
+⭐ Thanks for visiting my profile!
